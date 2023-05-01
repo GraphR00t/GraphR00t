@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello !
+
+I am GraphR00t the creator of [Inox](https://github.com/inoxlang/inox), the secure programming language.
 
 <!--
 **GraphR00t/GraphR00t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
