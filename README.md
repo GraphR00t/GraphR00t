@@ -5,5 +5,5 @@ If you have a question about my projects or just want to talk you can reach me o
 
 I mainly program in:
 - **Golang**
-- **Typescript** with Deno.
+- **Typescript**
 - **Inox** ;)
